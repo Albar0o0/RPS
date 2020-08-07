@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">rps</string>
+    <string name="what_is_your_name">What is your name</string>
+    <string name="name">name</string>
+    <string name="YOUR_NAME">YOUR NAME</string>
+    <string name="todo">TODO</string>
+    <string name="welcome_adventurer">Welcome Adventurer</string>
+    <string name="todo2">TODO</string>
+    <string name="nextButton1">N e x t</string>
+    <string name="next2">N E X T</string>
+    <string name="hint">hint</string>
+    <string name="textview">TextView</string>
+    <string name="Welcome">Welcome</string>
+    <string name="your_opponent_is">Your Opponent is</string>
+
+    <string name="names">names</string>
+    <string name="rock">Rock</string>
+    <string name="paper">Paper</string>
+    <string name="scissors">Scissors</string>
+    <string name="rockWon">You won by picking Rock!</string>
+    <string name="paperWon">You won by picking Paper!</string>
+    <string name="scissorsWon">You won by picking scissors!</string>
+    <string name="Drawgame">Draw</string>
+    <string name="lose">oof, you lost</string>
+
+    <string name="userWon">You Won !</string>
+    <string name="userLose">Oof, you lose</string>
+    <string name="congratulations">CONGRATULATIONS !</string>
+    <string name="TAMAT">YOU\'VE WON YOUR BATTLES</string>
+    <string name="h_o_m_e">H O M E</string>
+</resources>
